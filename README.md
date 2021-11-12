@@ -1,4 +1,4 @@
-Hi There I’m  **Jorge Verástegui**
+![image](https://raw.githubusercontent.com/jorgeverastegui/jorgeverastegui/main/github_cover_photo_1.png)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorgeverastegui&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
