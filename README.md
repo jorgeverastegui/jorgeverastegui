@@ -7,6 +7,7 @@
 I am a Chemical Engineer turned IT specialist, through the administration of linux servers, which over time has led me to be a SysAdmin and DevOps engineer
 
 ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Chemical-Engineer-informational?style=flat&logo=twoo&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
